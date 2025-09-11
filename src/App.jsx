@@ -1,7 +1,7 @@
 import React from "react";
 import { Routes, Route, useLocation, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Events from "./pages/Events";
